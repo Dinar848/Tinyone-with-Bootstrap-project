@@ -1,0 +1,13 @@
+.carousel .carousel-indicators li {
+    width: .7rem;
+    height: .7rem;
+    border-radius: 50%;
+}
+
+.f-1 {
+    padding: 0;
+}
+
+.nav-link {
+    padding: .2rem 1rem;
+}
